@@ -1,0 +1,10 @@
+{
+"firstName": "John",
+"lastName": "Smith",
+"address": {
+"streetAddress": "2ndStreet",
+"city": "NewYork",
+"state": "NY"
+},
+"esc\\aped": "\"hello\""
+}
